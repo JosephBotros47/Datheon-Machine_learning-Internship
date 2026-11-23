@@ -8,32 +8,32 @@ Repository containing Machine Learning tasks, end-to-end pipelines, models, and 
 
 | # | Task / Milestone | Focus Areas & Techniques | Status |
 | :--- | :--- | :--- | :---: |
-| **1** | **Multi-Class Benchmark Classification Pipeline (Iris / Wine)**[cite: 1] | Scikit-Learn Pipelines, Data Normalization, Confusion Matrices[cite: 1] | ✅ Completed |
-| **2** | **Real Estate Housing Price Prediction (Ridge & Lasso Regression)**[cite: 1] | Continuous Regression, Feature Engineering, Residual Error Analysis[cite: 1] | ⏳ Pending |
-| **3** | **Predictive Customer Churn Classifier (Random Forest & XGBoost)**[cite: 1] | Handling Class Imbalance, ROC-AUC Optimization, Ensemble Models[cite: 1] | ⏳ Pending |
-| **4** | **NLP Sentiment Classification on Customer Reviews (TF-IDF)**[cite: 1] | Text Preprocessing, TF-IDF Embeddings, Review Polarity Classification[cite: 1] | ⏳ Pending |
+| **1** | **Multi-Class Benchmark Classification Pipeline (Iris / Wine)** | Scikit-Learn Pipelines, Data Normalization, Confusion Matrices | ✅ Completed |
+| **2** | **Real Estate Housing Price Prediction (Ridge & Lasso Regression)** | Continuous Regression, Feature Engineering, Residual Error Analysis | ⏳ Pending |
+| **3** | **Predictive Customer Churn Classifier (Random Forest & XGBoost)** | Handling Class Imbalance, ROC-AUC Optimization, Ensemble Models | ⏳ Pending |
+| **4** | **NLP Sentiment Classification on Customer Reviews (TF-IDF)** | Text Preprocessing, TF-IDF Embeddings, Review Polarity Classification | ⏳ Pending |
 
 ---
 
 ## 📁 Task Details
 
 ### ✅ Task 1: Multi-Class Benchmark Classification Pipeline (Iris / Wine)
-- **Objective:** Build end-to-end classification pipelines using Scikit-Learn[cite: 1].
-- **Key Steps:** Data preprocessing & normalization, model training, and performance evaluation using confusion matrices[cite: 1].
+- **Objective:** Build end-to-end classification pipelines using Scikit-Learn.
+- **Key Steps:** Data preprocessing & normalization, model training, and performance evaluation using confusion matrices.
 - **Status:** Completed
 
 ### ⏳ Task 2: Real Estate Housing Price Prediction (Ridge & Lasso Regression)
-- **Objective:** Perform continuous regression modeling to predict housing prices[cite: 1].
-- **Key Steps:** Feature engineering, regularized regression (Ridge & Lasso), and residual error analysis[cite: 1].
+- **Objective:** Perform continuous regression modeling to predict housing prices.
+- **Key Steps:** Feature engineering, regularized regression (Ridge & Lasso), and residual error analysis.
 - **Status:** Upcoming
 
 ### ⏳ Task 3: Predictive Customer Churn Classifier (Random Forest & XGBoost)
-- **Objective:** Build a robust classifier for customer attrition prediction[cite: 1].
-- **Key Steps:** Addressing severe class imbalance and optimizing the ROC-AUC score using Random Forest and XGBoost[cite: 1].
+- **Objective:** Build a robust classifier for customer attrition prediction.
+- **Key Steps:** Addressing severe class imbalance and optimizing the ROC-AUC score using Random Forest and XGBoost.
 - **Status:** Upcoming
 
 ### ⏳ Task 4: NLP Sentiment Classification on Customer Reviews (TF-IDF)
-- **Objective:** Classify review polarity from raw customer feedback[cite: 1].
+- **Objective:** Classify review polarity from raw customer feedback.
 - **Key Steps:** Raw textual corpus preprocessing, TF-IDF feature extraction, and sentiment classification[cite: 1].
 - **Status:** Upcoming
 
