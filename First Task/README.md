@@ -26,3 +26,5 @@ The objective of this project is to explore, preprocess, and classify iris flowe
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
+   git clone [https://github.com/JosephBotros47/Datheon-Machine_learning-Internship.git](https://github.com/JosephBotros47/Datheon-Machine_learning-Internship.git)
+   cd Datheon-Machine_learning-Internship/"First Task"
