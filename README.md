@@ -9,7 +9,7 @@ Repository containing Machine Learning tasks, end-to-end pipelines, models, and 
 | # | Task / Milestone | Focus Areas & Techniques | Status |
 | :--- | :--- | :--- | :---: |
 | **1** | **Multi-Class Benchmark Classification Pipeline (Iris / Wine)** | Scikit-Learn Pipelines, Data Normalization, Confusion Matrices | ✅ Completed |
-| **2** | **Real Estate Housing Price Prediction (Ridge & Lasso Regression)** | Continuous Regression, Feature Engineering, Residual Error Analysis | ⏳ Pending |
+| **2** | **Real Estate Housing Price Prediction (Ridge & Lasso Regression)** | Continuous Regression, Feature Engineering, Residual Error Analysis | ✅ Completed |
 | **3** | **Predictive Customer Churn Classifier (Random Forest & XGBoost)** | Handling Class Imbalance, ROC-AUC Optimization, Ensemble Models | ⏳ Pending |
 | **4** | **NLP Sentiment Classification on Customer Reviews (TF-IDF)** | Text Preprocessing, TF-IDF Embeddings, Review Polarity Classification | ⏳ Pending |
 
@@ -25,7 +25,7 @@ Repository containing Machine Learning tasks, end-to-end pipelines, models, and 
 ### ⏳ Task 2: Real Estate Housing Price Prediction (Ridge & Lasso Regression)
 - **Objective:** Perform continuous regression modeling to predict housing prices.
 - **Key Steps:** Feature engineering, regularized regression (Ridge & Lasso), and residual error analysis.
-- **Status:** Upcoming
+- **Status:** Completed
 
 ### ⏳ Task 3: Predictive Customer Churn Classifier (Random Forest & XGBoost)
 - **Objective:** Build a robust classifier for customer attrition prediction.
