@@ -22,7 +22,7 @@ Repository containing Machine Learning tasks, end-to-end pipelines, models, and 
 - **Key Steps:** Data preprocessing & normalization, model training, and performance evaluation using confusion matrices.
 - **Status:** Completed
 
-### ⏳ Task 2: Real Estate Housing Price Prediction (Ridge & Lasso Regression)
+### ✅ Task 2: Real Estate Housing Price Prediction (Ridge & Lasso Regression)
 - **Objective:** Perform continuous regression modeling to predict housing prices.
 - **Key Steps:** Feature engineering, regularized regression (Ridge & Lasso), and residual error analysis.
 - **Status:** Completed
